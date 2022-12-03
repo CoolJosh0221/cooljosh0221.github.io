@@ -1,0 +1,76 @@
+---
+title: TITLE
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [about_me, personal_experiences]
+tags: [hi, hello] # TAG names should always be lowercase
+---
+
+# Hello
+
+This is my first static site.  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et mi tristique, feugiat lorem tempor, tempor mauris. Praesent tellus nunc, luctus at luctus a, mattis vel odio. Nunc hendrerit sem eget magna mollis, non dictum ex sollicitudin. Quisque pretium sem vel ipsum hendrerit porta. Nullam est est, lobortis quis pellentesque vitae, laoreet ac elit. Praesent molestie eget tellus vel pretium. Nullam nec ipsum justo. Donec interdum a metus sed molestie. Curabitur eget augue nec justo blandit tristique sit amet ac elit.
+
+## Hello World
+
+### Printing hello world in different languages
+
+#### Python
+
+```py
+print("hello world!")
+```
+
+#### JavaScript
+
+```javascript
+console.log("hello world!");
+```
+
+#### C
+
+```c
+include <stdio.h>
+
+int main()
+{
+    printf("hello world!\n");
+}
+```
+
+#### C++
+
+```c++
+include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "hello world!\n";
+}
+```
+
+#### Java
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("hello world!");
+}
+
+}
+```
+
+#### Ruby
+
+```ruby
+puts "hello world"
+```
+
+#### Rust
+
+```rust
+fn main() {
+    println!("Hello World!");
+}
+```
