@@ -8,6 +8,6 @@ order: 4
 > If this is your first time here, make sure to visit the home page and check out all of my most recent posts.
 {: .prompt-tip }
 > I will be creating posts every week.
-{: .prompt-danger }
+{: .prompt-info }
 
 <!-- prettier-ignore-end -->
