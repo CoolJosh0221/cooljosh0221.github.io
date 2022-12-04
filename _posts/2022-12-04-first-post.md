@@ -1,6 +1,6 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+title: Hello
+date: 2022-12-04 08:45 +0800
 categories: [about_me, personal_experiences]
 tags: [hi, hello] # TAG names should always be lowercase
 ---
@@ -61,16 +61,32 @@ public class Main {
 }
 ```
 
+#### Rust
+
+```rust
+fn main() {
+    println!("Hello World!");
+}
+```
+
 #### Ruby
 
 ```ruby
 puts "hello world"
 ```
 
-#### Rust
+#### Swift
 
-```rust
-fn main() {
-    println!("Hello World!");
+```swift
+print("hello world!")
+```
+
+#### Go
+
+```go
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello world")
 }
 ```
