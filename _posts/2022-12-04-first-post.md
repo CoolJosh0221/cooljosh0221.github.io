@@ -1,7 +1,7 @@
 ---
 title: Hello
 date: 2022-12-04 08:45 +0800
-categories: [about_me, personal_experiences]
+categories: [personal_experiences, hello]
 tags: [hi, hello] # TAG names should always be lowercase
 ---
 
