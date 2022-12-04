@@ -91,7 +91,7 @@ comments:
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
-    theme: gruvbox-dark
+    theme:
   # Giscus options › https://giscus.app
   giscus:
     repo: cooljosh0221/cooljosh0221.github.io # <gh-username>/<repo>
@@ -99,7 +99,7 @@ comments:
     category: General
     category_id: DIC_kwDOIjG9Us4CS5pK
     mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
+    input_position: top # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
